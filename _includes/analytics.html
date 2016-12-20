@@ -1,0 +1,11 @@
+{% comment %}
+http://stackoverflow.com/a/38446775
+{% endcomment %}
+
+{% if jekyll.environment == "production" %}
+
+	{% if site.google_analytics %}
+		<script src="{{ site.cdnurl }}/tracking/{{ site.google_analytics }}.js"></script>
+	{% endif %}
+	
+{% endif %}
