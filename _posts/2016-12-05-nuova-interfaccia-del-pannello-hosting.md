@@ -11,7 +11,7 @@ Diverse sono le nuove funzionalità, di seguito solo alcune delle principali:
 - Mantenimento anche del supporto a PHP 5.6.x
 - Disponibilità di PHP in modalità HHVM (Hip Hop Virtual Machine), oltre alle già presenti: mod_php, FCGI, CGI, SuPHP e PHP-FPM
 - Gestione autonoma delle caselle email
-- Certificato SSL gratuito del tipo _Let's Encrypt_ con rinnovo automatico
+- Certificato SSL gratuito _Let's Encrypt_ con rinnovo automatico
 - Migliorato supporto per utenti WebDAV
 - Utenti Shell (jailed e non-jailed), SFTP e SCP
 - Installazione di applicazioni con un click in modalità APS
