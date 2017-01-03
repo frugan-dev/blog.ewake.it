@@ -20,14 +20,24 @@ sono disponibili anche dei certificati SSL del tipo _StartCom Class 2_ o superio
 
 [comment]: # A partire dal primo rinnovo si può liberamente scegliere di mantenere oppure no il certificato a fronte di un piccolo costo aggiuntivo annuale.
 
-I certificati SSL sono importanti per la sicurezza e l'<a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" target="_blank">indicizzazione</a> del tuo dominio.
-Con l'attivazione di questo protocollo, tutti i dati trasferiti tra una pagina web e un utente finale vengono cifrati e non possono essere intercettati da terzi non autorizzati ad accedere ad essi.
-Si tratta di una funzionalità particolarmente interessante nella gestione e nell'utilizzo delle piattaforme di e-commerce che prevedono il passaggio di dati spesso strettamente riservati, inclusi quelli riguardanti transazioni monetarie.
+I certificati SSL sono importanti per la sicurezza e l'<a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" target="_blank">indicizzazione</a> soprattutto da **Gennaio 2017**, 
+data a partire dalla quale Google ha dichiarato che ci saranno gradualmente forti penalizzazioni SEO per i siti privi di certifcato SSL.
+
+Con l'attivazione di questo protocollo, tutti i dati trasferiti tra una pagina web e un utente finale vengono cifrati e non possono essere intercettati da terzi non autorizzati.
+Si tratta di una funzionalità particolarmente interessante nella gestione e nell'utilizzo delle piattaforme di e-commerce che prevedono il passaggio di dati strettamente riservati, inclusi quelli riguardanti transazioni monetarie.
 
 A chi utilizza **Wordpress** consigliamo l'installazione del plugin <a href="https://it.wordpress.org/plugins/better-wp-security/" target="_blank">iThemes Security</a> e l'attivazione della relativa opzione **SSL**.
 
 A chi utilizza **Joomla!** consigliamo invece la <a href="https://www.gavick.com/documentation/joomla/how-to-use-ssl-in-a-joomla-site" target="_blank">seguente guida</a>.
 
 Mentre chi utilizza **Drupal** può trovare maggiori istruzioni sul <a href="https://www.drupal.org/https-information" target="_blank">sito ufficiale</a>.
+
+Di seguito alcuni articoli sull'argomento:
+
+- <a href="https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html">https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html</a>
+- <a href="https://security.googleblog.com/2016/11/sha-1-certificates-in-chrome.html" target="_blank">https://security.googleblog.com/2016/11/sha-1-certificates-in-chrome.html</a>
+- <a href="https://wordpress.org/news/2016/12/moving-toward-ssl/" target="_blank">https://wordpress.org/news/2016/12/moving-toward-ssl/</a>
+- <a href="http://motherboard.vice.com/read/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https" target="_blank">http://motherboard.vice.com/read/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https</a>
+- <a href="http://activerain.com/blogsview/5003001/2017-changes-to-seo-with-ssl-certificates--google-shaming--no-" target="_blank">http://activerain.com/blogsview/5003001/2017-changes-to-seo-with-ssl-certificates--google-shaming--no-</a>
 
 Per maggiori informazioni e supporto contattaci ai [seguenti recapiti]({{ site.mainurl }}).
