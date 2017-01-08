@@ -52,6 +52,8 @@ baseurl: "" # "/blog"
 
 mainurl: https://ewake.it
 cdnurl: https://cdn1.ewake.it
+supporturl: http://support.ewake.it
+publicurl: https://public.ewake.it
 
 paginate: 5
 

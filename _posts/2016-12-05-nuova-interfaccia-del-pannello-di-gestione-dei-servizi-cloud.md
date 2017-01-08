@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Nuova interfaccia del pannello hosting
+title: Nuova interfaccia del pannello di gestione dei servizi cloud
 ---
 
-Finalmente online la nuova interfaccia del pannello di gestione hosting [EWake]({{ site.mainurl }}).
+Finalmente online la nuova interfaccia del pannello di gestione dei servizi cloud [EWake]({{ site.mainurl }}).
 
 Diverse sono le nuove funzionalità, di seguito solo alcune delle principali:
 

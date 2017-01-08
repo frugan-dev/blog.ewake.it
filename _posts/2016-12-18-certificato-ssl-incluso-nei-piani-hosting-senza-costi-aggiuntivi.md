@@ -5,7 +5,7 @@ title: Certificato SSL incluso nei piani hosting senza costi aggiuntivi
 
 Da oggi in poi in tutti i piani hosting [EWake]({{ site.mainurl }}) è disponibile **senza costi aggiuntivi** un certificato SSL del tipo _Let's Encrypt_ con algoritmo hash SHA-256 e rinnovo automatico ogni 90 giorni.
 
-Per attivarlo è sufficiente spuntare l'opzione **Let's Encrypt** nelle impostazioni del [nuovo pannello hosting EWake]({{ site.baseurl }}{% post_url 2016-12-05-nuova-interfaccia-del-pannello-hosting %}) e configurare opportunamente la propria applicazione affinché supporti il protocollo HTTPS.
+Per attivarlo è sufficiente spuntare l'opzione **Let's Encrypt** nelle impostazioni del [nuovo pannello di gestione dei servizi cloud EWake]({{ site.baseurl }}{% post_url 2016-12-05-nuova-interfaccia-del-pannello-di-gestione-dei-servizi-cloud %}) e configurare opportunamente la propria applicazione affinché supporti il protocollo HTTPS.
 Tale opzione è disponibile per tutti i domini e relativi sottodomini, e mantiene distinti i certificati fra i domini e i sottodomini, rendendo quindi irrilevante la necessità del supporto wildcard.
 
 Per i clienti che necessitano comunque di opzioni aggiuntive, quali ad es. 
@@ -34,10 +34,10 @@ Mentre chi utilizza **Drupal** può trovare maggiori istruzioni sul <a href="htt
 
 Di seguito alcuni articoli sull'argomento:
 
-- <a href="https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html">https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html</a>
+- <a href="https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html" target="_blank">https://security.googleblog.com/2014/08/https-as-ranking-signal_6.html</a>
 - <a href="https://security.googleblog.com/2016/11/sha-1-certificates-in-chrome.html" target="_blank">https://security.googleblog.com/2016/11/sha-1-certificates-in-chrome.html</a>
 - <a href="https://wordpress.org/news/2016/12/moving-toward-ssl/" target="_blank">https://wordpress.org/news/2016/12/moving-toward-ssl/</a>
 - <a href="http://motherboard.vice.com/read/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https" target="_blank">http://motherboard.vice.com/read/google-will-soon-shame-all-websites-that-are-unencrypted-chrome-https</a>
 - <a href="http://activerain.com/blogsview/5003001/2017-changes-to-seo-with-ssl-certificates--google-shaming--no-" target="_blank">http://activerain.com/blogsview/5003001/2017-changes-to-seo-with-ssl-certificates--google-shaming--no-</a>
 
-Per maggiori informazioni e supporto contattaci ai [seguenti recapiti]({{ site.mainurl }}).
+Per maggiori informazioni consulta la [documentazione di supporto]({{ site.supporturl }}) oppure contattaci ai [seguenti recapiti]({{ site.mainurl }}).
