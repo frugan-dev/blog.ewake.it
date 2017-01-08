@@ -25,7 +25,6 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 - <a href="https://it.wordpress.org/plugins/all-in-one-wp-security-and-firewall/" target="_blank">https://it.wordpress.org/plugins/all-in-one-wp-security-and-firewall/</a>
 - <a href="https://it.wordpress.org/plugins/wpclef/" target="_blank">https://it.wordpress.org/plugins/wpclef/</a>
 - <a href="https://it.wordpress.org/plugins/two-factor-authentication/" target="_blank">https://it.wordpress.org/plugins/two-factor-authentication/</a>
-[comment]: # - <a href="https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/" target="_blank">https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/</a> _(vulnerabilità GHOST)_
 - <a href="https://it.wordpress.org/plugins/jetpack/" target="_blank">https://it.wordpress.org/plugins/jetpack/</a>
 
 **Prestazioni:**
@@ -55,3 +54,6 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 
 Per maggiori informazioni contattaci ai [seguenti recapiti]({{ site.mainurl }}).
 
+
+
+[comment]: # - https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/ (vulnerabilità GHOST)
