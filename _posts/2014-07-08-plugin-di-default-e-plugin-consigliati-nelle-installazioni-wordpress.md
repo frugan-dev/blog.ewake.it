@@ -20,12 +20,17 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 
 **Sicurezza:**
 
+- <a href="https://it.wordpress.org/plugins/wp-fail2ban/" target="_blank">https://it.wordpress.org/plugins/wp-fail2ban/</a>
 - <a href="https://it.wordpress.org/plugins/better-wp-security/" target="_blank">https://it.wordpress.org/plugins/better-wp-security/</a>
 - <a href="https://it.wordpress.org/plugins/wordfence/" target="_blank">https://it.wordpress.org/plugins/wordfence/</a>
 - <a href="https://it.wordpress.org/plugins/all-in-one-wp-security-and-firewall/" target="_blank">https://it.wordpress.org/plugins/all-in-one-wp-security-and-firewall/</a>
 - <a href="https://it.wordpress.org/plugins/wpclef/" target="_blank">https://it.wordpress.org/plugins/wpclef/</a>
 - <a href="https://it.wordpress.org/plugins/two-factor-authentication/" target="_blank">https://it.wordpress.org/plugins/two-factor-authentication/</a>
 - <a href="https://it.wordpress.org/plugins/jetpack/" target="_blank">https://it.wordpress.org/plugins/jetpack/</a>
+
+**SPAM:**
+
+- <a href="https://wordpress.org/plugins/email-address-encoder/" target="_blank">https://wordpress.org/plugins/email-address-encoder/</a>
 
 **Prestazioni:**
 
