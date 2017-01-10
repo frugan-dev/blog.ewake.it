@@ -3,7 +3,8 @@ layout: post
 title: Utilizzo sperimentale di Google Analytics tramite Google PageSpeed
 ---
 
-Grazie al consolidato utilizzo del [modulo PageSpeed](https://developers.google.com/speed/pagespeed/module/) di Google, [EWake]({{ site.mainurl }}) sta ora sperimentando la funzionalità di inserimento del codice di Google Analytics direttamente nelle pagine web tramite il filtro [insert_ga](https://developers.google.com/speed/pagespeed/module/filter-insert-ga).
+Negli ultimi giorni Google Analytics sembra aver smesso di tracciare le statistiche quando il codice javascript viene incluso da un sito esterno. 
+Per risolvere il problema, grazie al consolidato utilizzo del [modulo PageSpeed](https://developers.google.com/speed/pagespeed/module/) di Google, [EWake]({{ site.mainurl }}) sta ora sperimentando la funzionalità di inserimento del codice di Google Analytics direttamente nelle pagine web tramite il filtro [insert_ga](https://developers.google.com/speed/pagespeed/module/filter-insert-ga).
 
 Attualmente la soluzione sembra avere alcune problematiche solo con le pagine dinamiche in PHP in modalità PHP-FPM; ciò nonostante [EWake]({{ site.mainurl }}) ha deciso di renderla comunque operativa per tutti i clienti che verranno prossimamente aggiornati al [nuovo pannello di gestione dei servizi cloud]({{ site.baseurl }}{% post_url 2016-12-05-nuova-interfaccia-del-pannello-di-gestione-dei-servizi-cloud %}): la possibilità infatti di utilizzo del filtro con PHP in modalità FastCGI garantisce comunque la funzionalità del servizio di tracking.
 
