@@ -35,6 +35,7 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 **Prestazioni:**
 
 - <a href="https://it.wordpress.org/plugins/w3-total-cache/" target="_blank">https://it.wordpress.org/plugins/w3-total-cache/</a>
+- <a href="https://it.wordpress.org/plugins/accelerated-mobile-pages/" target="_blank">https://it.wordpress.org/plugins/accelerated-mobile-pages/</a>
 - <a href="https://it.wordpress.org/plugins/google-pagespeed-insights/" target="_blank">https://it.wordpress.org/plugins/google-pagespeed-insights/</a>
 - <a href="https://wordpress.org/plugins/wp-optimize/" target="_blank">https://wordpress.org/plugins/wp-optimize/</a>
 - <a href="https://wordpress.org/plugins/p3-profiler/" target="_blank">https://wordpress.org/plugins/p3-profiler/</a>
