@@ -21,7 +21,7 @@ sono disponibili anche dei certificati SSL del tipo _StartCom Class 2_ o superio
 [comment]: # A partire dal primo rinnovo si può liberamente scegliere di mantenere oppure no il certificato a fronte di un piccolo costo aggiuntivo annuale.
 
 I certificati SSL sono importanti per la sicurezza e l'<a href="https://webmasters.googleblog.com/2014/08/https-as-ranking-signal.html" target="_blank">indicizzazione</a> soprattutto da **Gennaio 2017**, 
-data a partire dalla quale Google ha dichiarato che ci saranno gradualmente forti penalizzazioni SEO per i siti privi di certifcato SSL.
+data a partire dalla quale Google ha dichiarato che ci saranno gradualmente forti penalizzazioni SEO per i siti privi di certificato SSL.
 
 Con l'attivazione di questo protocollo, tutti i dati trasferiti tra una pagina web e un utente finale vengono cifrati e non possono essere intercettati da terzi non autorizzati.
 Si tratta di una funzionalità particolarmente interessante nella gestione e nell'utilizzo delle piattaforme di e-commerce che prevedono il passaggio di dati strettamente riservati, inclusi quelli riguardanti transazioni monetarie.
