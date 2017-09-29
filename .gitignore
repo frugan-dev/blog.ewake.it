@@ -1,3 +1,6 @@
+# https://www.gitignore.io
+
+# jekyll
 _drafts
 _site
 .DS_Store
@@ -9,3 +12,17 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+
+# Custom
+/VAR/
+/.settings/
+/.buildpath
+/.project
+
+**/stats/
+
+
+# Various
+Thumbs.db
+*.log

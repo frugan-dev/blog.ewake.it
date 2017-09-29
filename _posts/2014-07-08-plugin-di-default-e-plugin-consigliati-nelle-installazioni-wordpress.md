@@ -63,3 +63,9 @@ Per maggiori informazioni contattaci ai [seguenti recapiti]({{ site.mainurl }}).
 
 
 [comment]: # - https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/ (vulnerabilità GHOST)
+[comment]: # - https://it.wordpress.org/plugins/duplicator/
+[comment]: # - https://wordpress.org/plugins/rest-api/
+
+
+
+
