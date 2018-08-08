@@ -10,7 +10,7 @@ Questo per ora l'elenco ufficiale:
 
 - <a href="https://it.wordpress.org/plugins/wp-fail2ban/" target="_blank">https://it.wordpress.org/plugins/wp-fail2ban/</a>
 - <a href="https://it.wordpress.org/plugins/better-wp-security/" target="_blank">https://it.wordpress.org/plugins/better-wp-security/</a>
-- <a href="https://wordpress.org/plugins/email-address-encoder/" target="_blank">https://wordpress.org/plugins/email-address-encoder/</a>
+- <a href="https://it.wordpress.org/plugins/email-address-encoder/" target="_blank">https://it.wordpress.org/plugins/email-address-encoder/</a>
 
 **Sono invitati pertanto tutti i clienti interessati a non disinstallare tali plugin o ad installarli nel caso fossero mancanti.**
 
@@ -30,15 +30,17 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 
 **SPAM:**
 
-- <a href="https://wordpress.org/plugins/email-address-encoder/" target="_blank">https://wordpress.org/plugins/email-address-encoder/</a>
+- <a href="https://it.wordpress.org/plugins/email-address-encoder/" target="_blank">https://it.wordpress.org/plugins/email-address-encoder/</a>
 
 **Prestazioni:**
 
 - <a href="https://it.wordpress.org/plugins/w3-total-cache/" target="_blank">https://it.wordpress.org/plugins/w3-total-cache/</a>
 - <a href="https://it.wordpress.org/plugins/accelerated-mobile-pages/" target="_blank">https://it.wordpress.org/plugins/accelerated-mobile-pages/</a>
 - <a href="https://it.wordpress.org/plugins/google-pagespeed-insights/" target="_blank">https://it.wordpress.org/plugins/google-pagespeed-insights/</a>
-- <a href="https://wordpress.org/plugins/wp-optimize/" target="_blank">https://wordpress.org/plugins/wp-optimize/</a>
-- <a href="https://wordpress.org/plugins/p3-profiler/" target="_blank">https://wordpress.org/plugins/p3-profiler/</a>
+- <a href="https://it.wordpress.org/plugins/wp-optimize/" target="_blank">https://it.wordpress.org/plugins/wp-optimize/</a>
+- <a href="https://it.wordpress.org/plugins/p3-profiler/" target="_blank">https://it.wordpress.org/plugins/p3-profiler/</a>
+- <a href="https://it.wordpress.org/plugins/wp-smushit/" target="_blank">https://it.wordpress.org/plugins/wp-smushit/</a>
+- <a href="https://it.wordpress.org/plugins/ewww-image-optimizer/" target="_blank">https://it.wordpress.org/plugins/ewww-image-optimizer/</a>
 
 **SEO:**
 
@@ -49,23 +51,21 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 
 **Sviluppo:**
 
-- <a href="https://wordpress.org/plugins/developer/" target="_blank">https://wordpress.org/plugins/developer/</a>
+- <a href="https://it.wordpress.org/plugins/developer/" target="_blank">https://it.wordpress.org/plugins/developer/</a>
+- <a href="https://it.wordpress.org/plugins/rest-api/" target="_blank">https://it.wordpress.org/plugins/rest-api/</a>
 - <a href="http://wp-cli.org" target="_blank">http://wp-cli.org</a>
 - <a href="https://generatewp.com" target="_blank">https://generatewp.com</a>
 
 **Varie:**
 
-- <a href="https://wordpress.org/plugins/cookie-law-info/" target="_blank">https://wordpress.org/plugins/cookie-law-info/</a>
-- <a href="https://wordpress.org/plugins/wordpress-backup-to-dropbox/" target="_blank">https://wordpress.org/plugins/wordpress-backup-to-dropbox/</a>
+- <a href="https://it.wordpress.org/plugins/cookie-law-info/" target="_blank">https://it.wordpress.org/plugins/cookie-law-info/</a>
+- <a href="https://it.wordpress.org/plugins/wordpress-backup-to-dropbox/" target="_blank">https://it.wordpress.org/plugins/wordpress-backup-to-dropbox/</a>
+- <a href="https://it.wordpress.org/plugins/duplicator/" target="_blank">https://it.wordpress.org/plugins/duplicator/</a>
 
 Per maggiori informazioni contattaci ai [seguenti recapiti]({{ site.mainurl }}).
 
 
 
 [comment]: # - https://wordpress.org/plugins/remove-xmlrpc-pingback-ping/ (vulnerabilità GHOST)
-[comment]: # - https://it.wordpress.org/plugins/duplicator/
-[comment]: # - https://wordpress.org/plugins/rest-api/
-
-
 
 
