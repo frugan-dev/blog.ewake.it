@@ -27,6 +27,7 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 - <a href="https://it.wordpress.org/plugins/wpclef/" target="_blank">https://it.wordpress.org/plugins/wpclef/</a>
 - <a href="https://it.wordpress.org/plugins/two-factor-authentication/" target="_blank">https://it.wordpress.org/plugins/two-factor-authentication/</a>
 - <a href="https://it.wordpress.org/plugins/jetpack/" target="_blank">https://it.wordpress.org/plugins/jetpack/</a>
+- <a href="https://it.wordpress.org/plugins/health-check/" target="_blank">https://it.wordpress.org/plugins/health-check/</a>
 
 **SPAM:**
 
@@ -53,11 +54,14 @@ Riportiamo inoltre di seguito un elenco di plugin o risorse consigliati (l'elenc
 
 - <a href="https://it.wordpress.org/plugins/developer/" target="_blank">https://it.wordpress.org/plugins/developer/</a>
 - <a href="https://it.wordpress.org/plugins/rest-api/" target="_blank">https://it.wordpress.org/plugins/rest-api/</a>
-- <a href="http://wp-cli.org" target="_blank">http://wp-cli.org</a>
+- <a href="https://it.wordpress.org/plugins/wp-sentry-integration/" target="_blank">https://it.wordpress.org/plugins/wp-sentry-integration/</a>
+- <a href="https://it.wordpress.org/plugins/user-switching/" target="_blank">https://it.wordpress.org/plugins/user-switching/</a>
+- <a href="https://wp-cli.org" target="_blank">https://wp-cli.org</a>
 - <a href="https://generatewp.com" target="_blank">https://generatewp.com</a>
 
 **Varie:**
 
+- <a href="https://it.wordpress.org/plugins/gdpr-framework/" target="_blank">https://it.wordpress.org/plugins/gdpr-framework/</a>
 - <a href="https://it.wordpress.org/plugins/cookie-law-info/" target="_blank">https://it.wordpress.org/plugins/cookie-law-info/</a>
 - <a href="https://it.wordpress.org/plugins/wordpress-backup-to-dropbox/" target="_blank">https://it.wordpress.org/plugins/wordpress-backup-to-dropbox/</a>
 - <a href="https://it.wordpress.org/plugins/duplicator/" target="_blank">https://it.wordpress.org/plugins/duplicator/</a>
