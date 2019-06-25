@@ -7,7 +7,7 @@ Recentemente Intel ha rivelato pubblicamente un gruppo di vulnerabilità dei lor
 
 A causa della natura e della gravità di questi problemi, siamo costretti ad agire in maniera tempestiva, applicando le prime patch ufficiali disponibili.
 
-A partire da oggi martedì 25 Giugno 2019, per la durata di una settimana fino a martedì 7 Luglio 2019, saranno pertanto possibili alcune temporanee interruzioni dei servizi sui protocolli IMAP/POP3/SMTP e dell'accesso alle caselle tramite webmail.
+A partire da oggi martedì 25 Giugno 2019, per la durata di una settimana fino a martedì 2 Luglio 2019, saranno pertanto possibili alcune temporanee interruzioni dei servizi sui protocolli IMAP/POP3/SMTP e dell'accesso alle caselle tramite webmail.
 
 Per limitare i disservizi, le interruzioni saranno attuate prevalentemente in orari notturni rispetto al fuso orario dei clienti interessati.
 
