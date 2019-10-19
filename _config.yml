@@ -51,7 +51,7 @@ url: http://blog.ewake.it # https://ewake.github.io
 baseurl: "" # "/blog"
 
 mainurl: https://ewake.it
-cdnurl: https://cdn1.ewake.it
+cdnurl: https://cdn.ewake.it
 supporturl: http://support.ewake.it
 publicurl: https://public.ewake.it
 
