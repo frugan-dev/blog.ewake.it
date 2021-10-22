@@ -30,7 +30,7 @@ Attenzione a non copiare spazi vuoti durante il copia-incolla.
 Problema:  
 **Il client di posta scarica nuovamente le email già precedentemente scaricate.**  
 Soluzione:  
-Questo problema riguarda solo il protocollo POP3, e può accadere con differenti client di posta (ad es. Thunderbird <a href="http://kb.mozillazine.org/Duplicate_messages_received">http://kb.mozillazine.org/Duplicate_messages_received</a>, Outlook <a href="https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/">https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/</a>).  
+Questo problema riguarda solo il protocollo POP3, e può accadere con differenti client di posta (ad es. Thunderbird <a href="http://kb.mozillazine.org/Duplicate_messages_received">http://kb.mozillazine.org/Duplicate_messages_received</a> o Outlook <a href="https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/">https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/</a>).  
 In pratica ci si ritrova con le email duplicate nella posta in arrivo, generalmente solo quelle degli ultimi 30 o più giorni.  
 Nella maggior parte dei casi è sufficiente ordinarle per data, in modo da procedere poi agevolmente alla cancellazione dei duplicati.
 
