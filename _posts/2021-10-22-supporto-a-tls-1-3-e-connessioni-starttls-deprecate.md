@@ -39,7 +39,7 @@ _Problema:_
 _Soluzione:_  
 Se utilizzi client mail obsoleti (ad es. Windows Live Mail), è possibile che nei prossimi giorni/settimane tu non riesca più a connetterti ai server di posta.  
 Per questioni di sicurezza non possiamo consentire delle eccezioni in tal senso, in quanto il loro impatto globale metterebbe a rischio anche altri utenti non interessati dal problema.  
-Se rientri in questa ristretta casistica, ti invitiamo a fare un upgrade dei tuoi dispositivi/programmi in uso, e a contattarci ai recapiti in calce per informazioni o assistenza.
+Se rientri in questa ristretta casistica, ti invitiamo a fare un upgrade dei tuoi dispositivi/programmi in uso, e a contattarci ai [seguenti recapiti]({{ site.mainurl }}) per informazioni o assistenza.
 
 ### Webmail
 
