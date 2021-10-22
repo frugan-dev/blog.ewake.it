@@ -21,22 +21,22 @@ Il nuovo protocollo TLS 1.3, pur essendo più sicuro e veloce <a href="https://k
 Purtroppo però anche l'utilizzo di dispositivi/programmi aggiornati, non sempre scongiura alcuni piccoli disguidi, nella maggior parte dei casi comunque di lieve entità.  
 Di seguito le casistiche più comuni:
 
-Problema:  
+_Problema:_  
 **Il client di posta richiede nuovamente l'inserimento della password.**  
-Soluzione:  
+_Soluzione:_  
 Quando il client la richiede, reinserire la stessa password sia per la posta in entrata che per quella in uscita, avendo cura di spuntare "memorizza la password".  
 Attenzione a non copiare spazi vuoti durante il copia-incolla.
 
-Problema:  
+_Problema:_  
 **Il client di posta scarica nuovamente le email già precedentemente scaricate.**  
-Soluzione:  
+_Soluzione:_  
 Questo problema riguarda solo il protocollo POP3, e può accadere con differenti client di posta (ad es. Thunderbird <a href="http://kb.mozillazine.org/Duplicate_messages_received">http://kb.mozillazine.org/Duplicate_messages_received</a> o Outlook <a href="https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/">https://www.emaildoctor.org/blog/why-outlook-is-downloading-duplicate-emails/</a>).  
 In pratica ci si ritrova con le email duplicate nella posta in arrivo, generalmente solo quelle degli ultimi 30 o più giorni.  
 Nella maggior parte dei casi è sufficiente ordinarle per data, in modo da procedere poi agevolmente alla cancellazione dei duplicati.
 
-Problema:  
+_Problema:_  
 **Il client di posta non riesce più a scaricare o ad inviare le mail.**  
-Soluzione:  
+_Soluzione:_  
 Se utilizzi client mail obsoleti (ad es. Windows Live Mail), è possibile che nei prossimi giorni/settimane tu non riesca più a connetterti ai server di posta.  
 Per questioni di sicurezza non possiamo consentire delle eccezioni in tal senso, in quanto il loro impatto globale metterebbe a rischio anche altri utenti non interessati dal problema.  
 Se rientri in questa ristretta casistica, ti invitiamo a fare un upgrade dei tuoi dispositivi/programmi in uso, e a contattarci ai recapiti in calce per informazioni o assistenza.
