@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Supporto a TLS 1.3 e connessioni STARTTLS deprecate
+title: Upgrade a TLS 1.3 e connessioni STARTTLS deprecate
 ---
 
 
