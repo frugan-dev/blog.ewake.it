@@ -7,7 +7,7 @@ title: Upgrade a TLS 1.3 e connessioni STARTTLS deprecate
 Un paio di settimane fa, con l'occasione della sostituzione dei proxy mail, abbiamo dovuto aggiornare i protocolli TLS della **posta in uscita**, introducendo il supporto a TLS 1.3, e deprecando il supporto a TLS inferiore o uguale a 1.1.  
 Inoltre abbiamo predisposto **entro fine anno** l'abbandono degli accessi STARTTLS sulle porte 143 (IMAP), 110 (POP3) e 587 (SMTP), in quanto considerati non più sicuri <a href="https://www.rfc-editor.org/rfc/rfc8314#section-3.3">https://www.rfc-editor.org/rfc/rfc8314#section-3.3</a>.
 
-Nei **prossimi giorni/settimane** procederemo ad applicare gli stessi aggiornamenti ai protocolli TLS anche sulla posta in entrata, scaglionando gradualmente le modifiche per tutti i clienti.
+Nei **prossimi giorni/settimane** procederemo ad applicare gli stessi aggiornamenti ai protocolli TLS anche sulla **posta in entrata**, scaglionando gradualmente le modifiche per tutti i clienti.
 
 ### Che cosa cambia per te?
 
