@@ -4,7 +4,7 @@ title: Dismissione STARTTLS dal 1° Gennaio 2022
 ---
 
 
-Come da comunicazione precedente del 23 Ottobre 2021 "[Upgrade a TLS 1.3 e connessioni STARTTLS deprecate]({{ site.url }}/2021/10/22/upgrade-a-tls-1-3-e-connessioni-starttls-deprecate.html)", ti ricordiamo che dal **1° Gennaio 2022** verranno dismessi gli accessi STARTTLS sulle porte 143 (IMAP), 110 (POP3) e 587 (SMTP), in quanto considerati non più sicuri <a href="https://www.rfc-editor.org/rfc/rfc8314#section-3.3">https://www.rfc-editor.org/rfc/rfc8314#section-3.3</a>.
+Come da comunicazione precedente "[Upgrade a TLS 1.3 e connessioni STARTTLS deprecate]({{ site.url }}/2021/10/22/upgrade-a-tls-1-3-e-connessioni-starttls-deprecate.html)" del 23 Ottobre 2021, ti ricordiamo che dal **1° Gennaio 2022** verranno dismessi gli accessi STARTTLS sulle porte 143 (IMAP), 110 (POP3) e 587 (SMTP), in quanto considerati non più sicuri <a href="https://www.rfc-editor.org/rfc/rfc8314#section-3.3">https://www.rfc-editor.org/rfc/rfc8314#section-3.3</a>.
 
 ### Che cosa cambia per te?
 
