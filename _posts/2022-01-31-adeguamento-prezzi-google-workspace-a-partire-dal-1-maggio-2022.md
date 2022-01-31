@@ -12,7 +12,7 @@ Nei prossimi mesi, o in occasione del prossimo rinnovo dei servizi hosting/email
 Coloro che vorranno **mantenere il servizio email su Google Workspace**, saranno invitati a procedere al pagamento della differenza di prezzo comunicata entro il **1° Maggio 2022**, onde evitare l'interruzione dei servizi email.  
 Al fine di abbassare il più possibile i costi, consigliamo comunque di contattarci ai [seguenti recapiti]({{ site.mainurl }}) per valutare insieme un'eventuale cancellazione di email inutilizzate.
 
-A coloro invece che vogliono **mantenere l'attuale costo annuale dei servizi hosting/email**, offriamo la possibilità di utilizzare il servizio email [EWake]({{ site.mainurl }}) senza costi aggiuntivi, anziché Google Workspace.  
+A coloro invece che vogliono **mantenere l'attuale costo annuale dei servizi hosting/email**, offriamo la possibilità di utilizzare il servizio email [EWake]({{ site.mainurl }}) **senza costi aggiuntivi**, anziché Google Workspace.  
 Anche in questo caso consigliamo di contattarci ai [seguenti recapiti]({{ site.mainurl }}) per avere maggiori informazioni e valutare insieme la migliore strategia di migrazione.
 
 Scusandoci in anticipo per eventuali disagi, rimaniamo a disposizione per informazioni ed assistenza ai [seguenti recapiti]({{ site.mainurl }}).
