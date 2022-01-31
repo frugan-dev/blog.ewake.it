@@ -7,7 +7,7 @@ Si informano i gentili clienti che qualche giorno fa Google ha annunciato un [im
 
 Tale adeguamento, salvo [possibili ripensamenti da parte di Google](https://twitter.com/RonAmadeo/status/1486407745867849728), avrà inevitabilmente un impatto importante sulle politiche di prezzo che [EWake]({{ site.mainurl }}) ha finora applicato in qualità di rivenditore dei servizi email di Google.
 
-Nei prossimi mesi, o in occasione del prossimo rinnovo dei servizi hosting/email, e in ogni caso prima del **1° Maggio 2022**, verranno informati via email tutti i clienti che utilizzano il servizio mail di Google in merito all'entità di tale adeguamento dei prezzi.
+Nei prossimi mesi, o in occasione del prossimo rinnovo dei servizi hosting/email, e in ogni caso prima del **1° Maggio 2022**, verranno informati via email tutti i clienti che utilizzano il servizio email di Google in merito all'entità di tale adeguamento dei prezzi.
 
 Coloro che vorranno **mantenere il servizio email su Google Workspace**, saranno invitati a procedere al pagamento della differenza di prezzo comunicata entro il **1° Maggio 2022**, onde evitare l'interruzione dei servizi email.  
 Al fine di abbassare il più possibile i costi, consigliamo comunque di [contattarci]({{ site.mainurl }}) per valutare insieme un'eventuale cancellazione di email inutilizzate.
