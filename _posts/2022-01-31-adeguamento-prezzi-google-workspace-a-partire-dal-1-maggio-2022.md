@@ -3,7 +3,7 @@ layout: post
 title: Adeguamento prezzi Google Workspace a partire dal 1° Maggio 2022
 ---
 
-Si informano i gentili clienti che qualche giorno fa Google ha annunciato un [importante adeguamento dei servizi Google Workspace (ex G Suite, Google Apps)](https://www.hdblog.it/google/articoli/n550136/google-workspace-g-suite-legacy-gratis/) a partire dal **1° Maggio 2022**.
+Qualche giorno fa Google ha annunciato un [importante adeguamento dei servizi Google Workspace (ex G Suite, Google Apps)](https://www.hdblog.it/google/articoli/n550136/google-workspace-g-suite-legacy-gratis/) a partire dal **1° Maggio 2022**.
 
 Tale adeguamento, salvo [possibili ripensamenti da parte di Google](https://twitter.com/RonAmadeo/status/1486407745867849728), avrà inevitabilmente un impatto importante sulle politiche di prezzo che [EWake]({{ site.mainurl }}) ha finora applicato in qualità di rivenditore dei servizi email di Google.
 
