@@ -14,3 +14,7 @@ Possono contenere inoltre degli allegati protetti o meno da password, che è ass
 Altra cosa a cui fare attenzione con questo tipo di email sono le conferme di lettura, spesso utilizzate dai cybercriminali per sapere se l'email è valida, come nel caso del [bait attack](https://www.punto-informatico.it/bait-attack-gmail-bersaglio-preferito/): quindi **NON CONFERMARE** la lettura.
 
 In caso di dubbi, ti invitiamo a contattarci senza riserve ai [seguenti recapiti]({{ site.mainurl }}).
+
+### AGGIORNAMENTO del 18/03/2022
+
+[Sintesi riepilogativa delle campagne malevole nella settimana del 12 marzo – 18 marzo 2022](https://cert-agid.gov.it/news/sintesi-riepilogativa-delle-campagne-malevole-nella-settimana-del-12-marzo-18-marzo-2022/) da parte degli esperti di cybersecurity del CERT-AgID.
